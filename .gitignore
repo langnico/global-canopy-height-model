@@ -1,0 +1,16 @@
+.idea
+deploy_dir/
+deploy_example/
+trained_models/
+__pycache__
+gchm.egg-info
+wandb/
+venv/
+.ipynb_checkpoints
+.DS_Store
+*.zip
+*.tif
+*.npy
+*.pt
+*.json
+

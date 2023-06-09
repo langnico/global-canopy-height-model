@@ -1,0 +1,15 @@
+tables
+ipython
+matplotlib
+numpy
+wandb
+pathlib
+tqdm
+botocore
+urllib3
+sentinelhub==3.9.0
+scikit-image
+typing
+scikit-learn
+wandb
+tensorboard

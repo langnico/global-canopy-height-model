@@ -1,0 +1,22 @@
+name: gchm
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - ipython
+  - matplotlib
+  - numpy
+  - wandb
+  - pathlib
+  - tqdm
+  - botocore
+  - urllib3
+  - wandb
+  - tensorboard
+  - sentinelhub=3.9.0
+  - anaconda::scikit-image
+  - anaconda::scikit-learn
+  - anaconda::typing
+  - anaconda::jupyter
