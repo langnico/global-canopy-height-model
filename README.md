@@ -11,7 +11,7 @@ This is a summary of all the published data:
 - Global canopy top height map for 2020 ([ETH Research Collection](https://doi.org/10.3929/ethz-b-000609802))
 - Train-val dataset ([ETH Research Collection](https://doi.org/10.3929/ethz-b-000609845))
 - Rasterized canopy top height models from airborne lidar ([Zenodo](https://doi.org/10.5281/zenodo.7885699))
-- Trained model weights ([Github release]())
+- Trained model weights ([Github release](https://github.com/langnico/global-canopy-height-model/releases/download/v1.0-trained-model-weights/trained_models_GLOBAL_GEDI_2019_2020.zip))
 - Demo data for example scripts ([Zenodo](https://doi.org/10.5281/zenodo.7885610))
 - Sparse GEDI canopy top height data ([Zenodo](https://doi.org/10.5281/zenodo.7737946))
 - ESA WorldCover 10 m 2020 v100 reprojected to Sentinel-2 tiles ([Zenodo](https://doi.org/10.5281/zenodo.7888150))
