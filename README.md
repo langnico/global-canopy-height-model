@@ -5,6 +5,15 @@ Here, we developed a model to estimate canopy top height anywhere on Earth. The 
 
 See our [project page](https://langnico.github.io/globalcanopyheight) for an interactive [demo](https://nlang.users.earthengine.app/view/global-canopy-height-2020) and more information.
 
+## Table of Contents
+1. [Data availability](https://github.com/langnico/global-canopy-height-model#data-availability)
+2. [Installation and credentials](https://github.com/langnico/global-canopy-height-model#installation-and-credentials)
+3. [Loading the model](https://github.com/langnico/global-canopy-height-model#loading-the-model)
+4. [Deploying](https://github.com/langnico/global-canopy-height-model#deploying)
+5. [Training](https://github.com/langnico/global-canopy-height-model#training)
+6. [ALS preprocessing for independent comparison](https://github.com/langnico/global-canopy-height-model#als-preprocessing-for-independent-comparison)
+7. [Citation](https://github.com/langnico/global-canopy-height-model#citation)
+
 ## Data availability
 This is a summary of all the published data:
 
