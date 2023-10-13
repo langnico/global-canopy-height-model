@@ -185,13 +185,15 @@ python3 gchm/preprocess/ALS_maxpool_GEDI_footprint.py "path/to/input/tif" "path/
 
 Please cite our paper if you use this code or any of the provided data.
 
-Lang, N., Jetz, W., Schindler, K., & Wegner, J. D. (2022). A high-resolution canopy height model of the Earth. arXiv preprint arXiv:2204.08322.
+Lang, N., Jetz, W., Schindler, K., & Wegner, J. D. (2023). A high-resolution canopy height model of the Earth. Nature Ecology & Evolution, 1-12.
 ```
-@article{lang2022high,
+@article{lang2023high,
   title={A high-resolution canopy height model of the Earth},
   author={Lang, Nico and Jetz, Walter and Schindler, Konrad and Wegner, Jan Dirk},
-  journal={arXiv preprint arXiv:2204.08322},
-  year={2022}
+  journal={Nature Ecology \& Evolution},
+  pages={1--12},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
 }
 ```
 
